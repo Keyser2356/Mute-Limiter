@@ -37,7 +37,7 @@ When a member exceeds their **monthly mute quota** (configured by server admins)
 ### 🚀 Quick Start
 
 ```bash
-git clone https://github.com/Keyser2356/Mute-or-kick.git
-cd Mute-or-kick
-pip install discord.py
+git clone https://github.com/Keyser2356/Mute-Limiter.git
+cd Mute-Limiter
+pip install disnake
 python bot.py
